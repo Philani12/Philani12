@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philani 👨🏽‍💻</h1>
 <h3 align="center">A junior full-stack developer from South Africa</h3>
 
-- 🔭 I’m currently enrolled at: **ALX - Software Engineering**
+- 🔭 I’m currently enrolled at: **ALX - Software Engineering Programme**
 
 - 👨‍💻 Skills I am studying (independently) are: **Git, Linux, Node.js, AWS, Docker, Kubernetes, Terraform, Ansible and Jenkins**
 
