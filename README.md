@@ -5,15 +5,13 @@
 
 - 👨‍💻 Skills I am currently studying (independently) are: **Git, Linux, HTML, CSS, JavaScript and Node.js**
 
-- 🌱 I’m currently learning (@ALX): **The C Programming Language**
-
 - 🔭 Long term goal: **DevOps Engineering**
 
 - 📫 How to reach me: **sphilani99@gmail.com**
 
 - 🌐 All of my projects are available: **Just here for now**
 
-- 📄 Know about my experiences: **I'll link my resume when I believe I'm ready**
+- 📄 Know about my experiences: **Well, just browse through here for now**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
