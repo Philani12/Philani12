@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Philani 👨🏽‍💻</h1>
 <h3 align="center">A junior full-stack developer from South Africa</h3>
 
-- 🔭 I’m currently enrolled at: **ALX - Software Engineering Programme**
+- 📝 I'm currently studying (independently) to be a: **FullStack Web Developer**
 
-- 👨‍💻 Skills I am studying (independently) are: **Git, Linux, Node.js, AWS, Docker, Kubernetes, Terraform, Ansible and Jenkins**
+- 👨‍💻 Skills I am currently studying (independently) are: **Git, Linux, HTML, CSS, JavaScript and Node.js**
 
 - 🌱 I’m currently learning (@ALX): **The C Programming Language**
 
-- 📝 I'm studying (independently) to be a: **DevOps Engineer**
+- 🔭 Long term goal: **DevOps Engineering**
 
 - 📫 How to reach me: **sphilani99@gmail.com**
 
